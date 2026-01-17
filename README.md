@@ -52,7 +52,7 @@ If you’re judging dev skill by green squares alone, that’s on you.
 ## Today’s Quote
 
 <!-- TODAY_QUOTE_START -->
-> “Programs must be written for people to read.” — Harold Abelson
+> “Silence is a source of great strength.” — Lao Tzu
 
 <sub>Updated: 2026-01-17 • Source: Quotable</sub>
 <!-- TODAY_QUOTE_END -->
