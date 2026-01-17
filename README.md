@@ -48,6 +48,15 @@ This repo is a joke… mostly.
 If you’re judging dev skill by green squares alone, that’s on you.  
 (But also: welcome to the internet.)
 
+
+## Today’s Quote
+
+<!-- TODAY_QUOTE_START -->
+> “Programs must be written for people to read.” — Harold Abelson
+
+<sub>Updated: 2026-01-17 • Source: Quotable</sub>
+<!-- TODAY_QUOTE_END -->
+
 ## License
 
 Do whatever you want. If this somehow becomes your personality, at least buy me a coffee.
