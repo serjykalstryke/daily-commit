@@ -54,7 +54,7 @@ If you’re judging dev skill by green squares alone, that’s on you.
 <!-- TODAY_QUOTE_START -->
 > “Silence is a source of great strength.” — Lao Tzu
 
-<sub>Updated: 2026-01-17 • Source: ZenQuotes API</sub>
+<sub>Updated: 2026-01-17 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 
 ## License
