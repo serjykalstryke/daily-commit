@@ -2,7 +2,9 @@
 
 Because nothing says “passionate software artisan” like an automated timestamp commit at 9:15 AM.
 
-This repo exists for one purpose: to gently nudge GitHub’s contribution graph into thinking I’m coding every day — even when I’m actually:
+This repo is a gentle reminder that consistency can be automated… but progress still has to be earned.
+
+daily-commit exists for one purpose: to gently nudge GitHub’s contribution graph into thinking I’m coding every day — even when I’m actually:
 - answering emails,
 - touching grass (rare),
 - or staring into the void wondering why `launchctl` hates me.
