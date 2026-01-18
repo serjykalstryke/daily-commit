@@ -54,9 +54,9 @@ If you’re judging dev skill by green squares alone, that’s on you.
 ## Today’s Quote
 
 <!-- TODAY_QUOTE_START -->
-> “Silence is a source of great strength.” — Lao Tzu
+> “Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.” — Robert Greene
 
-<sub>Updated: 2026-01-17 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-18 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 
 ## License
