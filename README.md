@@ -56,7 +56,7 @@ If you’re judging dev skill by green squares alone, that’s on you.
 <!-- TODAY_QUOTE_START -->
 > “Outstanding people have one thing in common: an absolute sense of mission.” — Zig Ziglar
 
-<sub>Updated: 2026-01-19 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-20 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 
 ## License
