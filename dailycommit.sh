@@ -2,6 +2,11 @@
 set -euo pipefail
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 
+SSH_KEY="${SSH_KEY:-$HOME/.ssh/id_ed25519}"
+export GIT_SSH_COMMAND="ssh -i \"$SSH_KEY\" -o IdentitiesOnly=yes"
+
+
+
 REPO="/Users/davidstinnett/dev/daily-commit"
 cd "$REPO"
 
