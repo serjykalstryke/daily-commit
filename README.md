@@ -54,9 +54,9 @@ If you’re judging dev skill by green squares alone, that’s on you.
 ## Today’s Quote
 
 <!-- TODAY_QUOTE_START -->
-> “Outstanding people have one thing in common: an absolute sense of mission.” — Zig Ziglar
+> “The friendship that can cease has never been real.” — St. Jerome
 
-<sub>Updated: 2026-01-20 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-21 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 
 ## License
