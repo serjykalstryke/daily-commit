@@ -54,9 +54,9 @@ If you’re judging dev skill by green squares alone, that’s on you.
 ## Today’s Quote
 
 <!-- TODAY_QUOTE_START -->
-> “The friendship that can cease has never been real.” — St. Jerome
+> “You need to be doing fewer things for more effect instead of doing more things with side effects.” — Gary Keller
 
-<sub>Updated: 2026-01-21 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-22 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 
 ## License
