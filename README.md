@@ -56,7 +56,7 @@ If you’re judging dev skill by green squares alone, that’s on you.
 <!-- TODAY_QUOTE_START -->
 > “How you think is as important as as what you think.” — Unknown
 
-<sub>Updated: 2026-01-24 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-25 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 
 ## License
