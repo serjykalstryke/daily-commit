@@ -56,7 +56,7 @@ If you’re judging dev skill by green squares alone, that’s on you.
 <!-- TODAY_QUOTE_START -->
 > “You are free, and that is why you are lost.” — Franz Kafka
 
-<sub>Updated: 2026-01-25 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 
 ## License
