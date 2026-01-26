@@ -1,13 +1,11 @@
 # daily-commit
 
 ## Today’s Quote
-
 <!-- TODAY_QUOTE_START -->
 > “You are free, and that is why you are lost.” — Franz Kafka
 
-<sub>Updated: 2026-01-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
-
 ## Purpose
 
 Because nothing says “passionate software artisan” like an automated timestamp commit at 9:15 AM.
