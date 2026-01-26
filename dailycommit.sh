@@ -94,11 +94,14 @@ block = (
     "<!-- TODAY_QUOTE_END -->"
 )
 
+pattern = r"^\s*<!-- TODAY_QUOTE_START -->\s*$.*?^\s*<!-- TODAY_QUOTE_END -->\s*$"
+
 new_text, n = re.subn(
-    r"<!-- TODAY_QUOTE_START -->.*?<!-- TODAY_QUOTE_END -->",
+    pattern,
     block,
     text,
-    flags=re.S
+    flags=re.S | re.M,
+    count=1,
 )
 
 if n != 1:
