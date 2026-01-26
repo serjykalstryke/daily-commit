@@ -8,6 +8,8 @@
 <sub>Updated: 2026-01-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 
+## Purpose
+
 Because nothing says “passionate software artisan” like an automated timestamp commit at 9:15 AM.
 
 This repo is a gentle reminder that consistency can be automated… but progress still has to be earned.
