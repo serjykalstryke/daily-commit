@@ -54,7 +54,7 @@ If you’re judging dev skill by green squares alone, that’s on you.
 ## Today’s Quote
 
 <!-- TODAY_QUOTE_START -->
-> “How you think is as important as as what you think.” — Unknown
+> “You are free, and that is why you are lost.” — Franz Kafka
 
 <sub>Updated: 2026-01-25 • Source: [ZenQuotes AP](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
