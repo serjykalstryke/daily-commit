@@ -1,5 +1,13 @@
 # daily-commit
 
+## Today’s Quote
+
+<!-- TODAY_QUOTE_START -->
+> “You are free, and that is why you are lost.” — Franz Kafka
+
+<sub>Updated: 2026-01-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<!-- TODAY_QUOTE_END -->
+
 Because nothing says “passionate software artisan” like an automated timestamp commit at 9:15 AM.
 
 This repo is a gentle reminder that consistency can be automated… but progress still has to be earned.
@@ -276,14 +284,6 @@ This repo is a joke… mostly.
 
 If you’re judging dev skill by green squares alone, that’s on you.
 (But also: welcome to the internet.)
-
-## Today’s Quote
-
-<!-- TODAY_QUOTE_START -->
-> “You are free, and that is why you are lost.” — Franz Kafka
-
-<sub>Updated: 2026-01-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
-<!-- TODAY_QUOTE_END -->
 
 ## License
 
