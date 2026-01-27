@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “You are free, and that is why you are lost.” — Franz Kafka
+> “If someone betrays you once, it's their fault; if they betray you twice, it's your fault.” — Eleanor Roosevelt
 
-<sub>Updated: 2026-01-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
