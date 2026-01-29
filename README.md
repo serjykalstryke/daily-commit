@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.” — Steve Maraboli
+> “Silence is a source of great strength.” — Lao Tzu
 
-<sub>Updated: 2026-01-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
