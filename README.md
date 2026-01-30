@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Silence is a source of great strength.” — Lao Tzu
+> “Your only obligation in any lifetime is to be true to yourself.” — Richard Bach
 
-<sub>Updated: 2026-01-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-01-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
