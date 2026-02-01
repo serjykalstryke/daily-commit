@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Know yourself and you will win all battles.” — Sun Tzu
+> “What you get by achieving your goals is not as important as what you become by achieving your goals.” — Henry David Thoreau
 
-<sub>Updated: 2026-01-31 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
