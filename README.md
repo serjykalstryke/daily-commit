@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “What you get by achieving your goals is not as important as what you become by achieving your goals.” — Henry David Thoreau
+> “No one can hurt you without your consent.” — Eleanor Roosevelt
 
-<sub>Updated: 2026-02-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
