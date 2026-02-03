@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “No one can hurt you without your consent.” — Eleanor Roosevelt
+> “No one ever said life was fair. Just Eventful.” — Carol Burnett
 
-<sub>Updated: 2026-02-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
