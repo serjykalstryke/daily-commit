@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The more knowledge you have, the more you're free to rely on your instincts.” — Arnold Schwarzenegger
+> “There is a wisdom of the head, and there is a wisdom of the heart.” — Charles Dickens
 
-<sub>Updated: 2026-02-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
