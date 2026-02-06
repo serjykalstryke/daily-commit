@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “There is a wisdom of the head, and there is a wisdom of the heart.” — Charles Dickens
+> “Be happy now, without reason - or you never will be at all.” — Dan Millman
 
-<sub>Updated: 2026-02-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
