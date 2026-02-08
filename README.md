@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Create each day anew.” — Morihei Ueshiba
+> “Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.” — Colin Powell
 
-<sub>Updated: 2026-02-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
