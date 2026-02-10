@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “You are not one person, but three: The one you think you are; The one others think you are; The one you really are.” — Sathya Sai Baba
+> “All great truths begin as blasphemies.” — George Bernard Shaw
 
-<sub>Updated: 2026-02-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
