@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.” — Jonathan Swift
+> “If a thing is worth doing, it is worth doing badly.” — Gilbert Chesterton
 
-<sub>Updated: 2026-02-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
