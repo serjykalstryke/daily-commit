@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “If a thing is worth doing, it is worth doing badly.” — Gilbert Chesterton
+> “We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin
 
-<sub>Updated: 2026-02-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
