@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “We are all born ignorant, but one must work hard to remain stupid.” — Benjamin Franklin
+> “Remember that sometimes not getting what you want is a wonderful stroke of luck.” — Dalai Lama
 
-<sub>Updated: 2026-02-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
