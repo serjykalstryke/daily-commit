@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Remember that sometimes not getting what you want is a wonderful stroke of luck.” — Dalai Lama
+> “Rudeness is the weak man's imitation of strength.” — Eric Hoffer
 
-<sub>Updated: 2026-02-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
