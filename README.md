@@ -4,7 +4,7 @@
 <!-- TODAY_QUOTE_START -->
 > “Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.” — Franz Kafka
 
-<sub>Updated: 2026-02-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
