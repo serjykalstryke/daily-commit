@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.” — Franz Kafka
+> “The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.” — Benjamin Mays
 
-<sub>Updated: 2026-02-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
