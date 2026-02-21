@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.” — Benjamin Mays
+> “Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.” — Ronald Reagan
 
-<sub>Updated: 2026-02-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
