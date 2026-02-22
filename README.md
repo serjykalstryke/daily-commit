@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.” — Ronald Reagan
+> “To a mind that is still, the entire universe surrenders.” — Zhuangzi
 
-<sub>Updated: 2026-02-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
