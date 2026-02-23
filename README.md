@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “To a mind that is still, the entire universe surrenders.” — Zhuangzi
+> “Children are our greatest natural resource.” — Herbert Hoover
 
-<sub>Updated: 2026-02-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
