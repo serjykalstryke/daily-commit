@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “By failing to prepare, you are preparing to fail.” — Benjamin Franklin
+> “Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.” — Stephen King
 
 <sub>Updated: 2026-02-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
