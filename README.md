@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.” — Stephen King
+> “Talk is cheap. Show me the code.” — Linus Torvalds
 
-<sub>Updated: 2026-02-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-02-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
