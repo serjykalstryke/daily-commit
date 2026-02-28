@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “It's your life-but only if you make it so.” — Eleanor Roosevelt
+> “Premature optimization is the root of all evil.” — Donald Knuth
 
 <sub>Updated: 2026-02-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
