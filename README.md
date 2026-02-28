@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “A comfort zone is a beautiful place, but nothing ever grows there.” — Unknown
+> “Programs must be written for people to read.” — Harold Abelson
 
 <sub>Updated: 2026-02-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
