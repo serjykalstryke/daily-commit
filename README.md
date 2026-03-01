@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Premature optimization is the root of all evil.” — Donald Knuth
+> “The man who removes a mountain begins by carrying away small stones.” — William Faulkner
 
-<sub>Updated: 2026-02-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
