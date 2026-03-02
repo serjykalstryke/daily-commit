@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The man who removes a mountain begins by carrying away small stones.” — William Faulkner
+> “The pain of parting is nothing to the joy of meeting again.” — Charles Dickens
 
-<sub>Updated: 2026-03-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
