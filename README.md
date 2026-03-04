@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “It doesn't matter where you are coming from. All that matters is where you are going.” — Brian Tracy
+> “You don't need a weatherman to know which way the wind blows.” — Bob Dylan
 
-<sub>Updated: 2026-03-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
