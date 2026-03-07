@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Admire as much as you can. Most people do not admire enough.” — Vincent van Gogh
+> “The world doesn't always give you want, but it often gives you what you need.” — Naval Ravikant
 
-<sub>Updated: 2026-03-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
