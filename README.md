@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The world doesn't always give you want, but it often gives you what you need.” — Naval Ravikant
+> “Everything flows, nothing stands still.” — Heraclitus
 
-<sub>Updated: 2026-03-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
