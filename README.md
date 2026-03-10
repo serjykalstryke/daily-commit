@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “You'll see it when you believe it.” — Wayne Dyer
+> “We can spend our whole lives escaping from the monsters of our minds.” — Pema Chodron
 
-<sub>Updated: 2026-03-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
