@@ -4,7 +4,7 @@
 <!-- TODAY_QUOTE_START -->
 > “We cannot change anything unless we accept it.” — Carl Jung
 
-<sub>Updated: 2026-03-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
