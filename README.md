@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “We can spend our whole lives escaping from the monsters of our minds.” — Pema Chodron
+> “We cannot change anything unless we accept it.” — Carl Jung
 
 <sub>Updated: 2026-03-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
