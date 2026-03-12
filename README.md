@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “We cannot change anything unless we accept it.” — Carl Jung
+> “Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.” — Criss Jami
 
-<sub>Updated: 2026-03-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
