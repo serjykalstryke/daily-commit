@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.” — Criss Jami
+> “The best fighter is never angry.” — Lao Tzu
 
-<sub>Updated: 2026-03-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
