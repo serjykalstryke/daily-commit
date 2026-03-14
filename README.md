@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The best fighter is never angry.” — Lao Tzu
+> “Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.” — Alfred Adler
 
-<sub>Updated: 2026-03-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
