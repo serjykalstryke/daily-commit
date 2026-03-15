@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.” — Alfred Adler
+> “Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.” — Peter Drucker
 
-<sub>Updated: 2026-03-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
