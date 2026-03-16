@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.” — Peter Drucker
+> “We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.” — Emily Dickinson
 
-<sub>Updated: 2026-03-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
