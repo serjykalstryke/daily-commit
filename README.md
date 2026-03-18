@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Your happiness is what truly matters most. Do what you have to do in order to be happy.” — Brian Tracy
+> “Giving back involves a certain amount of giving up.” — Colin Powell
 
-<sub>Updated: 2026-03-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
