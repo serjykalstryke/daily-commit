@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Giving back involves a certain amount of giving up.” — Colin Powell
+> “Be fascinated instead of frustrated.” — Jim Rohn
 
-<sub>Updated: 2026-03-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
