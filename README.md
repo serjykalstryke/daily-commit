@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Simple words, repeated daily, can change your life.” — Maxime Lagace
+> “Life is what you make it. Always has been, always will be.” — Eleanor Roosevelt
 
-<sub>Updated: 2026-03-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
