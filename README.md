@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Life is what you make it. Always has been, always will be.” — Eleanor Roosevelt
+> “Excellence is not an exception, it is a prevailing attitude.” — Colin Powell
 
-<sub>Updated: 2026-03-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
