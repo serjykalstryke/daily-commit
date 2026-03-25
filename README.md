@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “It's easier to lose than to win.” — Wayne Gretzky
+> “Everything you've ever wanted is on the other side of fear.” — Brian Tracy
 
-<sub>Updated: 2026-03-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
