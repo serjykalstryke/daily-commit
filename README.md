@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Everything you've ever wanted is on the other side of fear.” — Brian Tracy
+> “Write to help yourself, publish to help others.” — Jack Butcher
 
-<sub>Updated: 2026-03-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
