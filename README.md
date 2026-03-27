@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Write to help yourself, publish to help others.” — Jack Butcher
+> “Confidence is what you have before you understand the problem.” — Woody Allen
 
-<sub>Updated: 2026-03-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
