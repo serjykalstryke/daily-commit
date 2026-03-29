@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Intense love does not measure, it just gives.” — Mother Teresa
+> “Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.” — Brian Tracy
 
-<sub>Updated: 2026-03-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
