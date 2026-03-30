@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.” — Brian Tracy
+> “Success is about creating value.” — Candice Carpenter
 
-<sub>Updated: 2026-03-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
