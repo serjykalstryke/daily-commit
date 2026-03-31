@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Success is about creating value.” — Candice Carpenter
+> “I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.” — Virginia Woolf
 
-<sub>Updated: 2026-03-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-03-31 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
