@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.” — Virginia Woolf
+> “It's not the men in your life that matters, it's the life in your men.” — Mae West
 
-<sub>Updated: 2026-03-31 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
