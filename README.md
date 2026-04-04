@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Ideas do not reach perfection in a day, no matter how much study is put upon them.” — Alexander Graham Bell
+> “Everybody needs a passion. That's what keeps life interesting.” — Betty White
 
-<sub>Updated: 2026-04-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
