@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Everybody needs a passion. That's what keeps life interesting.” — Betty White
+> “If you are going to achieve excellence in big things, you develop the habit in little matters.” — Colin Powell
 
-<sub>Updated: 2026-04-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
