@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “If you are going to achieve excellence in big things, you develop the habit in little matters.” — Colin Powell
+> “Don't wish it were easier, wish you were better.” — Jim Rohn
 
 <sub>Updated: 2026-04-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
