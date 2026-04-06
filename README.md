@@ -4,7 +4,7 @@
 <!-- TODAY_QUOTE_START -->
 > “Don't wish it were easier, wish you were better.” — Jim Rohn
 
-<sub>Updated: 2026-04-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
