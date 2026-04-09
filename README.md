@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “It's OK to have your eggs in one basket as long as you control what happens to that basket.” — Elon Musk
+> “The greatest treasures are those invisible to the eye but found by the heart.” — Judy Garland
 
-<sub>Updated: 2026-04-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
