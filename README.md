@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The greatest treasures are those invisible to the eye but found by the heart.” — Judy Garland
+> “He who wishes to be obeyed must know how to command.” — Niccolo Machiavelli
 
-<sub>Updated: 2026-04-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
