@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “He who wishes to be obeyed must know how to command.” — Niccolo Machiavelli
+> “I can live without money, but I cannot live without love.” — Judy Garland
 
-<sub>Updated: 2026-04-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
