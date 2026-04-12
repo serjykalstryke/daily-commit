@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “I can live without money, but I cannot live without love.” — Judy Garland
+> “Enjoy life. There's plenty of time to be dead.” — Hans Christian Andersen
 
-<sub>Updated: 2026-04-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
