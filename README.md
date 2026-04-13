@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Enjoy life. There's plenty of time to be dead.” — Hans Christian Andersen
+> “A mistake is only an error, it becomes a mistake when you fail to correct it.” — John Lennon
 
-<sub>Updated: 2026-04-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
