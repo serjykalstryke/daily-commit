@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “A mistake is only an error, it becomes a mistake when you fail to correct it.” — John Lennon
+> “Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.” — Ralph Marston
 
-<sub>Updated: 2026-04-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
