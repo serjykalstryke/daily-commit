@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.” — Ralph Marston
+> “Truth is such a rare thing, it is delighted to tell it.” — Emily Dickinson
 
 <sub>Updated: 2026-04-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
