@@ -4,7 +4,7 @@
 <!-- TODAY_QUOTE_START -->
 > “Truth is such a rare thing, it is delighted to tell it.” — Emily Dickinson
 
-<sub>Updated: 2026-04-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
