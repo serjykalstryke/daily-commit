@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Respect was invented to cover the empty place where love should be.” — Leo Tolstoy
+> “Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.” — G.I. Gurdjieff
 
-<sub>Updated: 2026-04-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
