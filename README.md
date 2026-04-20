@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.” — Zig Ziglar
+> “Freedom lies in being bold.” — Robert Frost
 
-<sub>Updated: 2026-04-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
