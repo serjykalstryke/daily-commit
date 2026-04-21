@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Freedom lies in being bold.” — Robert Frost
+> “Your heart is the size of an ocean. Go find yourself in its hidden depths.” — Rumi
 
-<sub>Updated: 2026-04-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
