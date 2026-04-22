@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Your heart is the size of an ocean. Go find yourself in its hidden depths.” — Rumi
+> “When you judge another, you do not define them, you define yourself” — Wayne Dyer
 
-<sub>Updated: 2026-04-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
