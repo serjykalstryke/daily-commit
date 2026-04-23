@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “When you judge another, you do not define them, you define yourself” — Wayne Dyer
+> “The only reason to be alive is to enjoy it.” — Rita Mae Brown
 
-<sub>Updated: 2026-04-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
