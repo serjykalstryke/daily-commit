@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The only reason to be alive is to enjoy it.” — Rita Mae Brown
+> “You can't get to a place that you don't believe exists.” — Unknown
 
-<sub>Updated: 2026-04-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
