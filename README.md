@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “In the middle of difficulty lies opportunity.” — Albert Einstein
+> “I'm an optimist by choice not by stupidity.” — Yanni
 
-<sub>Updated: 2026-04-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
