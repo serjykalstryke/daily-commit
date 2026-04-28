@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “I'm an optimist by choice not by stupidity.” — Yanni
+> “Self-knowledge is the beginning of self-correction.” — Norman Vincent Peale
 
-<sub>Updated: 2026-04-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
