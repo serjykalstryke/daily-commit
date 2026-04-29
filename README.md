@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Self-knowledge is the beginning of self-correction.” — Norman Vincent Peale
+> “Over time, loneliness gets inside you and doesn't go away.” — Carlos Ruiz Zafon
 
-<sub>Updated: 2026-04-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
