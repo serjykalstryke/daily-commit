@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Over time, loneliness gets inside you and doesn't go away.” — Carlos Ruiz Zafon
+> “Those who cannot change their minds cannot change anything.” — George Bernard Shaw
 
-<sub>Updated: 2026-04-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-04-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
