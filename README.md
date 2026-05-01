@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Those who cannot change their minds cannot change anything.” — George Bernard Shaw
+> “Duty makes us do things well, but love makes us do them beautifully.” — Zig Ziglar
 
-<sub>Updated: 2026-04-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
