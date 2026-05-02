@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Duty makes us do things well, but love makes us do them beautifully.” — Zig Ziglar
+> “Confidence is contagious. So is lack of confidence.” — Vince Lombardi
 
-<sub>Updated: 2026-05-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
