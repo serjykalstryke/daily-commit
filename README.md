@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Confidence is contagious. So is lack of confidence.” — Vince Lombardi
+> “Your best life will not be found in comfort. It will be found in fighting for what you believe in.” — Maxime Lagace
 
-<sub>Updated: 2026-05-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
