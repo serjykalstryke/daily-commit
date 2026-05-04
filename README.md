@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Your best life will not be found in comfort. It will be found in fighting for what you believe in.” — Maxime Lagace
+> “Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.” — Sun Tzu
 
-<sub>Updated: 2026-05-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
