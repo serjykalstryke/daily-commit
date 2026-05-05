@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.” — Sun Tzu
+> “Throw your heart over the bar and your body will follow.” — Norman Vincent Peale
 
-<sub>Updated: 2026-05-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
