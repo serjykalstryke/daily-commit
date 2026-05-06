@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Throw your heart over the bar and your body will follow.” — Norman Vincent Peale
+> “If what you're doing is not your passion, you have nothing to lose.” — Celestine Chua
 
-<sub>Updated: 2026-05-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
