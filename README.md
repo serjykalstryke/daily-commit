@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “If what you're doing is not your passion, you have nothing to lose.” — Celestine Chua
+> “It's the possibility of having a dream come true that makes life interesting.” — Paulo Coelho
 
-<sub>Updated: 2026-05-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
