@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “It's the possibility of having a dream come true that makes life interesting.” — Paulo Coelho
+> “20 percent of your activities will account for 80 percent of your results.” — Brian Tracy
 
-<sub>Updated: 2026-05-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
