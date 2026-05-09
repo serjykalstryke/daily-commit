@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “20 percent of your activities will account for 80 percent of your results.” — Brian Tracy
+> “People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.” — Zig Ziglar
 
-<sub>Updated: 2026-05-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
