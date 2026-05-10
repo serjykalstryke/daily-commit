@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.” — Zig Ziglar
+> “The majority of what you want will come from the minority of what you do.” — Gary Keller
 
-<sub>Updated: 2026-05-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
