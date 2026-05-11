@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The majority of what you want will come from the minority of what you do.” — Gary Keller
+> “We don't stop playing because we grow old; we grow old because we stop playing.” — George Bernard Shaw
 
-<sub>Updated: 2026-05-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
