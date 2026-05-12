@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “We don't stop playing because we grow old; we grow old because we stop playing.” — George Bernard Shaw
+> “Not all those who wander are lost.” — J.R.R. Tolkien
 
-<sub>Updated: 2026-05-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
