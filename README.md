@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Not all those who wander are lost.” — J.R.R. Tolkien
+> “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
 
-<sub>Updated: 2026-05-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
