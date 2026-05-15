@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “No matter what happens, always be yourself.” — Dale Carnegie
+> “Poetry is written with tears, fiction with blood, and history with invisible ink.” — Carlos Ruiz Zafon
 
-<sub>Updated: 2026-05-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
