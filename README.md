@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Life is like stepping onto a boat which is about to sail out to sea and sink.” — Shunryu Suzuki
+> “Programs must be written for people to read.” — Harold Abelson
 
-<sub>Updated: 2026-05-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
