@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Everything you've ever wanted is on the other side of fear.” — Brian Tracy
+> “People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.” — Andrew Carnegie
 
-<sub>Updated: 2026-05-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
