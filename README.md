@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.” — Andrew Carnegie
+> “A change is brought about because ordinary people do extraordinary things.” — Barack Obama
 
-<sub>Updated: 2026-05-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
