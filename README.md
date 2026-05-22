@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “A change is brought about because ordinary people do extraordinary things.” — Barack Obama
+> “Talk is cheap. Show me the code.” — Linus Torvalds
 
-<sub>Updated: 2026-05-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
