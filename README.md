@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “What one does is what counts. Not what one had the intention of doing.” — Pablo Picasso
+> “Presents are made for the pleasure of who gives them, not the merits of who receives them.” — Carlos Ruiz Zafon
 
-<sub>Updated: 2026-05-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
