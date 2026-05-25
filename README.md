@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Presents are made for the pleasure of who gives them, not the merits of who receives them.” — Carlos Ruiz Zafon
+> “The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.” — Dan Millman
 
-<sub>Updated: 2026-05-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
