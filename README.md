@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.” — Dan Millman
+> “Learn only how to avoid seeking for and attaching yourselves to anything.” — Huang Po
 
-<sub>Updated: 2026-05-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
