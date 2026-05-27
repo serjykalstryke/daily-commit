@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Learn only how to avoid seeking for and attaching yourselves to anything.” — Huang Po
+> “Being wrong opens us up to the possibility of change.” — Mark Manson
 
-<sub>Updated: 2026-05-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
