@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “You just can't beat the person who never gives up.” — Babe Ruth
+> “Do something to move yourself toward your major goal every day.” — Brian Tracy
 
-<sub>Updated: 2026-05-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-05-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
