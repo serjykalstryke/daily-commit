@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.” — Spencer Johnson
+> “Continuous effort - not strength or intelligence - is the key to unlocking our potential.” — Winston Churchill
 
-<sub>Updated: 2026-05-31 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
