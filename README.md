@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “One of the most difficult things is not to change society - but to change yourself.” — Nelson Mandela
+> “The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.” — Confucius
 
-<sub>Updated: 2026-06-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
