@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.” — Confucius
+> “A lot of people have gone further than they thought they could because someone else thought they could.” — Zig Ziglar
 
-<sub>Updated: 2026-06-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
