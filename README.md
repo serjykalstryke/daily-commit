@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “A lot of people have gone further than they thought they could because someone else thought they could.” — Zig Ziglar
+> “I like the dreams of the future better than the history of the past.” — Thomas Jefferson
 
-<sub>Updated: 2026-06-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
