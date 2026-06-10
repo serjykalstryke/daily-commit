@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Premature optimization is the root of all evil.” — Donald Knuth
+> “Talk is cheap. Show me the code.” — Linus Torvalds
 
-<sub>Updated: 2026-06-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
