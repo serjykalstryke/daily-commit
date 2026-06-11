@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Talk is cheap. Show me the code.” — Linus Torvalds
+> “Every man desires to live long, but no man wishes to be old.” — Jonathan Swift
 
-<sub>Updated: 2026-06-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
