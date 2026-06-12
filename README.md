@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Every man desires to live long, but no man wishes to be old.” — Jonathan Swift
+> “The future depends on what you do today.” — Mahatma Gandhi
 
-<sub>Updated: 2026-06-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
