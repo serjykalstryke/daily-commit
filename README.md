@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The future depends on what you do today.” — Mahatma Gandhi
+> “You can't build a reputation on what you are going to do.” — Henry Ford
 
-<sub>Updated: 2026-06-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
