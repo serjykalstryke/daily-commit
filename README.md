@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “You can't build a reputation on what you are going to do.” — Henry Ford
+> “Premature optimization is the root of all evil.” — Donald Knuth
 
-<sub>Updated: 2026-06-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
