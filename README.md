@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The road to success is always under construction..” — Lily Tomlin
+> “Never whine, never complain, never try to justify yourself.” — Robert Greene
 
-<sub>Updated: 2026-06-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
