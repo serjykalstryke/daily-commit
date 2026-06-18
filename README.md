@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Never whine, never complain, never try to justify yourself.” — Robert Greene
+> “But better die than live mechanically a life that is a repetition of repetitions.” — D. H. Lawrence
 
-<sub>Updated: 2026-06-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
