@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “But better die than live mechanically a life that is a repetition of repetitions.” — D. H. Lawrence
+> “All we have to decide is what to do with the time that is given to us.” — J.R.R. Tolkien
 
-<sub>Updated: 2026-06-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
