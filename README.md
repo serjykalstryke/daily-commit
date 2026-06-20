@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “All we have to decide is what to do with the time that is given to us.” — J.R.R. Tolkien
+> “Premature optimization is the root of all evil.” — Donald Knuth
 
-<sub>Updated: 2026-06-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
