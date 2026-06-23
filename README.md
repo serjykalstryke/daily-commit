@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Argue for your limitations and sure enough, they're yours.” — Richard Bach
+> “You may be one person in this world, but to one person you may mean the world.” — Unknown
 
-<sub>Updated: 2026-06-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
