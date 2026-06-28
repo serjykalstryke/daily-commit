@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Do Something. If it works, do more of it. If it doesn't, do something else.” — Franklin D. Roosevelt
+> “Truth is the offspring of silence and meditation.” — Isaac Newton
 
-<sub>Updated: 2026-06-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
