@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “All leaders are readers.” — Jim Rohn
+> “To create more positive results in your life, replace 'if only' with 'next time'.” — Celestine Chua
 
-<sub>Updated: 2026-06-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-06-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
