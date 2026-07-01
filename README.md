@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “To create more positive results in your life, replace 'if only' with 'next time'.” — Celestine Chua
+> “Talk is cheap. Show me the code.” — Linus Torvalds
 
-<sub>Updated: 2026-06-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
