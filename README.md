@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Talk is cheap. Show me the code.” — Linus Torvalds
+> “No one ever said life was fair. Just Eventful.” — Carol Burnett
 
-<sub>Updated: 2026-07-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
