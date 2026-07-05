@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Patience is bitter, but its fruit is sweet.” — Aristotle
+> “One of the advantages of being disorganized is that one is always having surprising discoveries.” — A.A. Milne
 
-<sub>Updated: 2026-07-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
