@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “One of the advantages of being disorganized is that one is always having surprising discoveries.” — A.A. Milne
+> “Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.” — Betty White
 
-<sub>Updated: 2026-07-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
