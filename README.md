@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives.” — Betty White
+> “It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.” — Sun Tzu
 
-<sub>Updated: 2026-07-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
