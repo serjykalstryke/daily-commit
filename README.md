@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.” — Steve Maraboli
+> “When you've got nothing, you've got nothing to lose.” — Bob Dylan
 
-<sub>Updated: 2026-07-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
