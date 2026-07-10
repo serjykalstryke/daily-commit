@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “When you've got nothing, you've got nothing to lose.” — Bob Dylan
+> “When something comes from within, when it is a part of you, you have no choice but to live it, to express it.” — Kamal Ravikant
 
-<sub>Updated: 2026-07-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
