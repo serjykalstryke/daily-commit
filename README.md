@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Success is a consequence and must not be a goal.” — Gustave Flaubert
+> “Words, once they are printed, have a life of their own.” — Carol Burnett
 
-<sub>Updated: 2026-07-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
