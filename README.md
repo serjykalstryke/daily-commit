@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Words, once they are printed, have a life of their own.” — Carol Burnett
+> “Pain doesn't last. And when it's gone, we have something to show for it. Growth.” — Kamal Ravikant
 
-<sub>Updated: 2026-07-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
