@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
+> “Talk is cheap. Show me the code.” — Linus Torvalds
 
 <sub>Updated: 2026-07-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
