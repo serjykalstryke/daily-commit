@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Pain doesn't last. And when it's gone, we have something to show for it. Growth.” — Kamal Ravikant
+> “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
 
-<sub>Updated: 2026-07-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
