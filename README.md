@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Talk is cheap. Show me the code.” — Linus Torvalds
+> “Knowing others is wisdom, knowing yourself is enlightenment.” — Lao Tzu
 
-<sub>Updated: 2026-07-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
