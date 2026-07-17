@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Knowing others is wisdom, knowing yourself is enlightenment.” — Lao Tzu
+> “Death and life have their determined appointments; riches and honors depend upon heaven.” — Confucius
 
-<sub>Updated: 2026-07-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
