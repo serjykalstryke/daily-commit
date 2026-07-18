@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Death and life have their determined appointments; riches and honors depend upon heaven.” — Confucius
+> “Would you rather live your life according to the approval of others or aligned with your truth and your dreams?” — Robin Sharma
 
-<sub>Updated: 2026-07-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
