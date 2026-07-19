@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Would you rather live your life according to the approval of others or aligned with your truth and your dreams?” — Robin Sharma
+> “The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.” — Albus Dumbledore
 
-<sub>Updated: 2026-07-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
