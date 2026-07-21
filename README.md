@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “An action committed in anger is an action doomed to failure.” — Genghis Khan
+> “Do Something. If it works, do more of it. If it doesn't, do something else.” — Franklin D. Roosevelt
 
-<sub>Updated: 2026-07-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
