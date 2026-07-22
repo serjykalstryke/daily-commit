@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Do Something. If it works, do more of it. If it doesn't, do something else.” — Franklin D. Roosevelt
+> “Nothing makes a man broad-minded like adversity.” — Will Rogers
 
-<sub>Updated: 2026-07-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
