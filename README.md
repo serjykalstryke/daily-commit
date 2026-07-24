@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Programs must be written for people to read.” — Harold Abelson
+> “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
 
-<sub>Updated: 2026-07-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
