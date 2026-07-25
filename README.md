@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
+> “It is amazing what you can accomplish if you do not care who gets the credit.” — Harry S. Truman
 
-<sub>Updated: 2026-07-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
