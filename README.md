@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “It is amazing what you can accomplish if you do not care who gets the credit.” — Harry S. Truman
+> “Let us rather run the risk of wearing out than rusting out.” — Theodore Roosevelt
 
-<sub>Updated: 2026-07-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
