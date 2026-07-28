@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “But better die than live mechanically a life that is a repetition of repetitions.” — D. H. Lawrence
+> “Be kind, for everyone you meet is fighting a harder battle.” — Plato
 
-<sub>Updated: 2026-07-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
