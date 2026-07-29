@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Be kind, for everyone you meet is fighting a harder battle.” — Plato
+> “If you let your head get too big, it'll break your neck.” — Elvis Presley
 
-<sub>Updated: 2026-07-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
