@@ -4,7 +4,7 @@
 <!-- TODAY_QUOTE_START -->
 > “It isn't that they can't see the solution. It is that they can't see the problem.” — Gilbert Chesterton
 
-<sub>Updated: 2026-07-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-07-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
