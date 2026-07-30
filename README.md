@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “If you let your head get too big, it'll break your neck.” — Elvis Presley
+> “It isn't that they can't see the solution. It is that they can't see the problem.” — Gilbert Chesterton
 
 <sub>Updated: 2026-07-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
