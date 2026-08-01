@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “New beginnings are disguised as painful endings.” — Lao Tzu
+> “Expect the best of yourself, and then do what is necessary to make it a reality.” — Ralph Marston
 
-<sub>Updated: 2026-07-31 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
