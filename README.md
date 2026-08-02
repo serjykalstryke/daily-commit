@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Expect the best of yourself, and then do what is necessary to make it a reality.” — Ralph Marston
+> “Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.” — Joan Rivers
 
-<sub>Updated: 2026-08-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
