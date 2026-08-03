@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.” — Joan Rivers
+> “It all depends on what you choose to believe.” — Spencer Johnson
 
-<sub>Updated: 2026-08-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
