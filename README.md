@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “It all depends on what you choose to believe.” — Spencer Johnson
+> “Love never keeps a man from pursuing his destiny.” — Paulo Coelho
 
-<sub>Updated: 2026-08-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
