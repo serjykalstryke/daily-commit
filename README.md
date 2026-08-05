@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Love never keeps a man from pursuing his destiny.” — Paulo Coelho
+> “It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.” — Epictetus
 
-<sub>Updated: 2026-08-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
