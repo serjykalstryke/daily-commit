@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Talk sense to a fool and he calls you foolish.” — Euripides
+> “Ability is a poor man's wealth.” — John Wooden
 
-<sub>Updated: 2026-08-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
