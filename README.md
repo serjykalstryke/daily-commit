@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Ability is a poor man's wealth.” — John Wooden
+> “The greatest discovery of all time is that a person can change their future by merely changing their attitude.” — Oprah Winfrey
 
-<sub>Updated: 2026-08-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
