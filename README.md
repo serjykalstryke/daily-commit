@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Magic is believing in yourself, if you can do that, you can make anything happen.” — Johann Wolfgang von Goethe
+> “Correct what you can. Learn from what you can't.” — Toni Morrison
 
-<sub>Updated: 2026-08-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
