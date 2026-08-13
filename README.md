@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Talk is cheap. Show me the code.” — Linus Torvalds
+> “Keep your face to the sunshine and you cannot see the shadows.” — Helen Keller
 
-<sub>Updated: 2026-08-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
