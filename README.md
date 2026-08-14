@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Keep your face to the sunshine and you cannot see the shadows.” — Helen Keller
+> “Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.” — Gary Keller
 
-<sub>Updated: 2026-08-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
