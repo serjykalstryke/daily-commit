@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Extraordinary results happen only when you give the best you have to become the best you can be at your most important work.” — Gary Keller
+> “Man suffers only because he takes seriously what the gods made for fun.” — Alan Watts
 
-<sub>Updated: 2026-08-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
