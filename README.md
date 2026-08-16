@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Man suffers only because he takes seriously what the gods made for fun.” — Alan Watts
+> “Motivation is what gets you started. Habit is what keeps you going.” — Jim Rohn
 
-<sub>Updated: 2026-08-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
