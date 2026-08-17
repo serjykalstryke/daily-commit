@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Motivation is what gets you started. Habit is what keeps you going.” — Jim Rohn
+> “Your happiness is what truly matters most. Do what you have to do in order to be happy.” — Brian Tracy
 
-<sub>Updated: 2026-08-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
