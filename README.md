@@ -4,7 +4,7 @@
 <!-- TODAY_QUOTE_START -->
 > “No one can compete with you on being you. Most of life is a search for who and what needs you the most.” — Naval Ravikant
 
-<sub>Updated: 2026-08-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
