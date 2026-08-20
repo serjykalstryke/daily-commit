@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Why change? Everyone has his own style. When you have found it, you should stick to it.” — Audrey Hepburn
+> “No matter how tall the mountain is, it cannot block the sun.” — Chinese Proverb
 
-<sub>Updated: 2026-08-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
