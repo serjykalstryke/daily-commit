@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “No matter how tall the mountain is, it cannot block the sun.” — Chinese Proverb
+> “Listen to the secret sound, the real sound, which is inside you.” — Kabir
 
-<sub>Updated: 2026-08-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
