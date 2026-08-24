@@ -4,7 +4,7 @@
 <!-- TODAY_QUOTE_START -->
 > “The quicker you let go of old cheese, the sooner you find new cheese.” — Spencer Johnson
 
-<sub>Updated: 2026-08-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
