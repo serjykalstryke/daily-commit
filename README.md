@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.” — Charles Dickens
+> “Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.” — Richard Bach
 
-<sub>Updated: 2026-08-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
