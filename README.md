@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.” — Richard Bach
+> “Whatever you decide to do, make sure it makes you happy.” — Paulo Coelho
 
-<sub>Updated: 2026-08-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
