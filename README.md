@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Whatever you decide to do, make sure it makes you happy.” — Paulo Coelho
+> “Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.” — Celestine Chua
 
 <sub>Updated: 2026-08-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
