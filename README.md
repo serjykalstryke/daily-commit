@@ -4,7 +4,7 @@
 <!-- TODAY_QUOTE_START -->
 > “Don't put off living to next week, next month, next year or next decade. The only time you're ever living is in this moment.” — Celestine Chua
 
-<sub>Updated: 2026-08-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
