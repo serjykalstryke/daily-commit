@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Keep your eyes on the goal, and just keep taking the next step towards completing it.” — John Carmack
+> “To a mind that is still, the entire universe surrenders.” — Zhuangzi
 
-<sub>Updated: 2026-08-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-08-31 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
