@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “To a mind that is still, the entire universe surrenders.” — Zhuangzi
+> “Stop wasting time defending your problems and work on addressing them instead.” — Celestine Chua
 
-<sub>Updated: 2026-08-31 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
