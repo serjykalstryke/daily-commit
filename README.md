@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Stop wasting time defending your problems and work on addressing them instead.” — Celestine Chua
+> “Force has no place where there is need of skill.” — Herodotus
 
-<sub>Updated: 2026-09-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
