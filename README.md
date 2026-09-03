@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Force has no place where there is need of skill.” — Herodotus
+> “Programs must be written for people to read.” — Harold Abelson
 
-<sub>Updated: 2026-09-02 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
