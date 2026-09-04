@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Programs must be written for people to read.” — Harold Abelson
+> “Do good by stealth, and blush to find it fame.” — Alexander Pope
 
-<sub>Updated: 2026-09-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
