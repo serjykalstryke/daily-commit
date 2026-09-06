@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “However difficult life may seem, there is always something you can do and succeed at.” — Stephen Hawking
+> “A man with outward courage dares to die: a man with inner courage dares to live.” — Lao Tzu
 
-<sub>Updated: 2026-09-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
