@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The greatest treasures are those invisible to the eye but found by the heart.” — Judy Garland
+> “High thoughts must have high language.” — Aristophanes
 
-<sub>Updated: 2026-09-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
