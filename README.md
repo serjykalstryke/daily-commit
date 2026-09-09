@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “High thoughts must have high language.” — Aristophanes
+> “We are all like the bright moon, we still have our darker side.” — Kahlil Gibran
 
-<sub>Updated: 2026-09-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
