@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “We are all like the bright moon, we still have our darker side.” — Kahlil Gibran
+> “Simple words, repeated daily, can change your life.” — Maxime Lagace
 
-<sub>Updated: 2026-09-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
