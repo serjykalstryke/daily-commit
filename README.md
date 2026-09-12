@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.” — Ming-Dao Deng
+> “He who leaves the game wins it.” — Nicolas Chamfort
 
-<sub>Updated: 2026-09-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
