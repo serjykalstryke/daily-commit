@@ -2,7 +2,7 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Knowing yourself is the beginning of all wisdom.” — Aristotle
+> “Programs must be written for people to read.” — Harold Abelson
 
 <sub>Updated: 2026-09-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
