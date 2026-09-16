@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Programs must be written for people to read.” — Harold Abelson
+> “Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.” — Brian Tracy
 
-<sub>Updated: 2026-09-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
