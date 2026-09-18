@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “When things go wrong, don't go with them.” — Elvis Presley
+> “Till it has loved, no man or woman can become itself.” — Emily Dickinson
 
-<sub>Updated: 2026-09-17 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
