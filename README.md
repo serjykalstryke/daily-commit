@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The smallest act of kindness is worth more than the greatest intention.” — Kahlil Gibran
+> “Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.” — Samuel Butler
 
-<sub>Updated: 2026-09-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
