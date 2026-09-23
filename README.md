@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.” — Samuel Butler
+> “When we strive to become better than we are, everything around us becomes better, too.” — Paulo Coelho
 
-<sub>Updated: 2026-09-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
