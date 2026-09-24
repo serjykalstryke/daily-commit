@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “When we strive to become better than we are, everything around us becomes better, too.” — Paulo Coelho
+> “You are what you believe in. You become that which you believe you can become.” — Bhagavad Gita
 
-<sub>Updated: 2026-09-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
