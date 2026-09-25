@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “You are what you believe in. You become that which you believe you can become.” — Bhagavad Gita
+> “Give so much away people insist on paying you.” — Jack Butcher
 
-<sub>Updated: 2026-09-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
