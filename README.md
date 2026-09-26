@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Give so much away people insist on paying you.” — Jack Butcher
+> “If you get up one more time than you fall, you will make it through.” — Chinese Proverb
 
-<sub>Updated: 2026-09-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
