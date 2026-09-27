@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “If you get up one more time than you fall, you will make it through.” — Chinese Proverb
+> “Don't let your learning lead to knowledge. Let your learning lead to action.” — Jim Rohn
 
-<sub>Updated: 2026-09-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
