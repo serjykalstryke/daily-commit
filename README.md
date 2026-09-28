@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Don't let your learning lead to knowledge. Let your learning lead to action.” — Jim Rohn
+> “One mistake does not have to rule a person's entire life.” — Joyce Meyer
 
-<sub>Updated: 2026-09-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-09-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
