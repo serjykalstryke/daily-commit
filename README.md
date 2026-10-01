@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “If you've made a mistake, it's better just to laugh at it.” — Zen Proverb
+> “When you stop questioning, you stop learning.” — Lolly Daskal
 
-<sub>Updated: 2026-09-30 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-01 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
