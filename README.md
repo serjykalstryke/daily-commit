@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “We are born from a quiet sleep, and we die to a calm awakening” — Zhuangzi
+> “Would you rather learn to deal with the truth now than be forced to do so later on?” — Celestine Chua
 
-<sub>Updated: 2026-10-03 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
