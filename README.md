@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Would you rather learn to deal with the truth now than be forced to do so later on?” — Celestine Chua
+> “Engage in those actions and thoughts that nurture the good qualities you want to have.” — Paramahansa Yogananda
 
-<sub>Updated: 2026-10-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
