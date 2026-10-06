@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Engage in those actions and thoughts that nurture the good qualities you want to have.” — Paramahansa Yogananda
+> “A gentleman is one who puts more into the world than he takes out.” — George Bernard Shaw
 
-<sub>Updated: 2026-10-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
