@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Be happy now, without reason - or you never will be at all.” — Dan Millman
+> “Success is not how high you have climbed, but how you make a positive difference to the world.” — Roy T. Bennett
 
-<sub>Updated: 2026-10-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
