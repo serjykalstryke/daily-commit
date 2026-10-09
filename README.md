@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Success is not how high you have climbed, but how you make a positive difference to the world.” — Roy T. Bennett
+> “The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.” — Ray Bradbury
 
-<sub>Updated: 2026-10-08 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
