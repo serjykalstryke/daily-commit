@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.” — Ray Bradbury
+> “Ability is a poor man's wealth.” — John Wooden
 
-<sub>Updated: 2026-10-09 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
