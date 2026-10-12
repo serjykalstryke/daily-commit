@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “You only live once, but if you do it right, once is enough.” — Mae West
+> “Those who know, do. Those that understand, teach.” — Aristotle
 
-<sub>Updated: 2026-10-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
