@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Those who know, do. Those that understand, teach.” — Aristotle
+> “Life can be the scariest and most beautiful thing simultaneously.” — Maxime Lagace
 
-<sub>Updated: 2026-10-12 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
