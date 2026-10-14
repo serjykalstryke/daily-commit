@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Life can be the scariest and most beautiful thing simultaneously.” — Maxime Lagace
+> “Genius is one percent inspiration and ninety-nine percent perspiration.” — Thomas Edison
 
-<sub>Updated: 2026-10-13 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-14 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
