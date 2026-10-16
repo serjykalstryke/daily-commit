@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Everything eaten is killed. Every meal is a sacrifice.” — Adi Da Samraj
+> “As we first succeed, we will find ourselves in new situations, facing new problems.” — Ryan Holiday
 
-<sub>Updated: 2026-10-15 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-16 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
