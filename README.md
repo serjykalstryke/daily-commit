@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The greater the impact you want to make, the greater your influence needs to be.” — Lolly Daskal
+> “The secret of change is to focus all your energy not on fighting the old, but on building the new.” — Colin R. Davis
 
-<sub>Updated: 2026-10-18 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
