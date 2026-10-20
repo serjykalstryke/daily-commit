@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The secret of change is to focus all your energy not on fighting the old, but on building the new.” — Colin R. Davis
+> “Success is about doing the right thing, not about doing everything right.” — Gary Keller
 
-<sub>Updated: 2026-10-19 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
