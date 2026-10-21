@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Success is about doing the right thing, not about doing everything right.” — Gary Keller
+> “Each day your life grows a day shorter. Make every move count.” — Ming-Dao Deng
 
-<sub>Updated: 2026-10-20 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
