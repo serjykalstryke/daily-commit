@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Each day your life grows a day shorter. Make every move count.” — Ming-Dao Deng
+> “The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.” — Mark Twain
 
-<sub>Updated: 2026-10-21 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
