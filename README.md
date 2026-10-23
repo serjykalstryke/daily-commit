@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one.” — Mark Twain
+> “If someone betrays you once, it's their fault; if they betray you twice, it's your fault.” — Eleanor Roosevelt
 
-<sub>Updated: 2026-10-22 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
