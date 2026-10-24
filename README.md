@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “If someone betrays you once, it's their fault; if they betray you twice, it's your fault.” — Eleanor Roosevelt
+> “There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.” — Henry Ward Beecher
 
-<sub>Updated: 2026-10-23 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
