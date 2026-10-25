@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.” — Henry Ward Beecher
+> “The wiser you get, the less you care to look like a fool.” — Maxime Lagace
 
-<sub>Updated: 2026-10-24 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
