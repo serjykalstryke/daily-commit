@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The wiser you get, the less you care to look like a fool.” — Maxime Lagace
+> “Loving thoughts and actions are clearly beneficial for our physical and mental health.” — Dalai Lama
 
-<sub>Updated: 2026-10-25 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
