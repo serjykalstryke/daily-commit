@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Loving thoughts and actions are clearly beneficial for our physical and mental health.” — Dalai Lama
+> “Still your waters.” — Josh Waitzkin
 
-<sub>Updated: 2026-10-26 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-27 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
