@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “What we dwell on is who we become.” — Oprah Winfrey
+> “The more reasons you have for achieving your goal, the more determined you will become.” — Brian Tracy
 
-<sub>Updated: 2026-10-28 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-10-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
