@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “The more reasons you have for achieving your goal, the more determined you will become.” — Brian Tracy
+> “What the eye doesn't see and the mind doesn't know, doesn't exist.” — D. H. Lawrence
 
-<sub>Updated: 2026-10-29 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-11-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
