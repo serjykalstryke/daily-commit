@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “What the eye doesn't see and the mind doesn't know, doesn't exist.” — D. H. Lawrence
+> “Premature optimization is the root of all evil.” — Donald Knuth
 
-<sub>Updated: 2026-11-04 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-11-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
