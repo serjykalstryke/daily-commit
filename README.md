@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Premature optimization is the root of all evil.” — Donald Knuth
+> “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
 
-<sub>Updated: 2026-11-05 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-11-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
