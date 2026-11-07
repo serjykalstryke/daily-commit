@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Simplicity is prerequisite for reliability.” — Edsger W. Dijkstra
+> “The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened.” — Kamal Ravikant
 
-<sub>Updated: 2026-11-06 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-11-07 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
