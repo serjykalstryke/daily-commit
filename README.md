@@ -2,9 +2,9 @@
 
 ## Today’s Quote
 <!-- TODAY_QUOTE_START -->
-> “Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.” — Colin Powell
+> “A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.” — Roy T. Bennett
 
-<sub>Updated: 2026-11-10 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
+<sub>Updated: 2026-11-11 • Source: [ZenQuotes API](https://zenquotes.io/)</sub>
 <!-- TODAY_QUOTE_END -->
 ## Purpose
 
